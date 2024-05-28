@@ -149,8 +149,9 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+# Added storage and count methd chages were present in the storage_count branch
 ## Added and integrated Restful API into the project
-There was
+
 
 ## Bugs
 No known bugs at this time. 
