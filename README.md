@@ -149,6 +149,8 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+## Added and integrated Restful API into the project
+There was
 
 ## Bugs
 No known bugs at this time. 
@@ -158,5 +160,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb: Joann Vuong
+
+## API SECTION AUTHORS
+Whitney Akinyi Ologi [Github](https://github.com/Whitneyakinyi2023) / [Twitter](https://twitter.com/ologi_whitney) 
 ## License
 Public Domain. No copy write protection. 
