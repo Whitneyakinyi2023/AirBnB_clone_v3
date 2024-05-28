@@ -1,13 +1,14 @@
 #!/usr/bin/python3
 """Creation of a flask app"""
 
-from ap1.v1.views import app_views
+from api.v1.views import app_views
 from flask import jsonify
+from flask import Flask
 
 @app_views.route('/status')
 def api_status():
     """Methos to have a JSON resposne"""
-    response = ('status': "OK")
+    response = {'status': "OK"}
 
 app = Flask(__name__)
 
